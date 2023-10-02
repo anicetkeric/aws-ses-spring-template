@@ -1,5 +1,9 @@
 # aws-ses-spring-template
 
+### Documentation
+
+* [Publication link](https://boottechnologies-ci.medium.com/advanced-email-personalization-template-with-amazon-ses-using-spring-boot-3-61dace8f03c4)
+  
 ### To create an email template
 
 ```console
